@@ -28,6 +28,5 @@ This Python script helps mitigate the Log4j vulnerability on multiple servers us
 Use this script responsibly and ensure you comply with all legal and ethical guidelines. The script is provided as-is, without any warranties or guarantees.
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
+NA
 
